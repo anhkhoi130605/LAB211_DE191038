@@ -1,0 +1,14 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package Weak2;
+
+/**
+ *
+ * @author kpham
+ */
+public abstract class Shapequiz2{
+    public abstract double getPerimeter();
+    public abstract double getArea();
+}
